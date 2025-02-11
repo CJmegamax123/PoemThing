@@ -1,3 +1,4 @@
-h1{text-align: center;}
-h2{text-align: center;}
-p{font-family: Georgia;}
+h1{text-align: center; font-family: 'Gill Sans', 'Gill Sans MT', 'Trebuchet MS', sans-serif;}
+h2{text-align: center; font-family: 'Gill Sans', 'Gill Sans MT', 'Trebuchet MS', sans-serif;}
+p{font-family: Georgia, 'Times New Roman', Times, serif}
+body{background-color: lightslategray;}    
